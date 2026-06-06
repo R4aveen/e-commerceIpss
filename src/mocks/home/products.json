@@ -1,0 +1,330 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "handle": "poleron-acid-wash-luffy-inspo-straw-hat-wanted-edicion-especial-one-piece",
+      "title": "PREVENTA - Polerón Acid Wash Luffy Inspo : Straw Hat Wanted - One Piece",
+      "type": "poleron",
+      "badge": "PREVENTA - Entrega en Julio",
+      "sale_badge": "Ahorra 10%",
+      "rating": 5.0,
+      "reviews_count": 12,
+      "price": 44990,
+      "compare_at_price": 49990,
+      "href": "/products/poleron-acid-wash-luffy-inspo-straw-hat-wanted-edicion-especial-one-piece",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/Post_web_10.png?v=1749602206&width=800",
+          "alt": "PREVENTA - Polerón Acid Wash Luffy Inspo : Straw Hat Wanted - One Piece",
+          "role": "primary"
+        }
+      ],
+      "variants": [
+        {
+          "id": "52649276080499",
+          "color": "Acid Wash",
+          "swatch_hex": "#d4d4d4",
+          "image_src": "https://zoan.cl/cdn/shop/files/Post_web_10.png?v=1749602206&width=800"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "handle": "guts-beyond-pain-hoodie-acid-wash-edicion-especial-berserk",
+      "title": "PREVENTA - Polerón Acid Wash Guts: Beyond Pain - Berserk",
+      "type": "poleron",
+      "badge": "PREVENTA - Entrega en Julio",
+      "sale_badge": "Ahorra 10%",
+      "rating": null,
+      "reviews_count": 0,
+      "price": 44990,
+      "compare_at_price": 49990,
+      "href": "/products/guts-beyond-pain-hoodie-acid-wash-edicion-especial-berserk",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/1_5666bf69-024d-4527-af2d-6c1a1e324dd3.png?v=1761862146&width=800",
+          "alt": "PREVENTA - Polerón Acid Wash Guts: Beyond Pain - Berserk",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/2_00249099-abeb-4f70-a1e5-492738761b30.png?v=1761862147&width=800",
+          "alt": "PREVENTA - Polerón Acid Wash Guts: Beyond Pain - Berserk",
+          "role": "secondary"
+        }
+      ],
+      "variants": [
+        {
+          "id": "62150998557043",
+          "color": "Acid Wash - Versión Full Color",
+          "swatch_hex": "#cecece",
+          "image_src": "https://zoan.cl/cdn/shop/files/2_00249099-abeb-4f70-a1e5-492738761b30.png?v=1761862147&width=800"
+        },
+        {
+          "id": "62150998720883",
+          "color": "Acid Wash - Versión Blanco",
+          "swatch_hex": "#cecece",
+          "image_src": "https://zoan.cl/cdn/shop/files/1_5666bf69-024d-4527-af2d-6c1a1e324dd3.png?v=1761862146&width=800"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "handle": "zoro-inspo-the-path-of-the-swordsman-edicion-especial-acid-wash-one-piece",
+      "title": "PREVENTA - Polerón Acid Wash Zoro Inspo: Path of the Swordsman - One Piece",
+      "type": "poleron",
+      "badge": "PREVENTA - Entrega en Julio",
+      "sale_badge": "Ahorra 10%",
+      "rating": 4.9,
+      "reviews_count": 14,
+      "price": 44990,
+      "compare_at_price": 49990,
+      "href": "/products/zoro-inspo-the-path-of-the-swordsman-edicion-especial-acid-wash-one-piece",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/1_4267ecc5-74e9-423f-bc42-1dc67dfee6c8.png?v=1769981465&width=800",
+          "alt": "PREVENTA - Polerón Acid Wash Zoro Inspo: Path of the Swordsman - One Piece",
+          "role": "primary"
+        }
+      ],
+      "variants": [
+        {
+          "id": "62503675724147",
+          "color": "Acid Wash",
+          "swatch_hex": "#d4d4d4",
+          "image_src": "https://zoan.cl/cdn/shop/files/1_4267ecc5-74e9-423f-bc42-1dc67dfee6c8.png?v=1769981465&width=800"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "handle": "poleron-acid-wash-hisoka-morow-grim-magician-hunter-x-hunter",
+      "title": "PREVENTA - Polerón Acid Wash Hisoka Morow: Grim Magician - Hunter x Hunter",
+      "type": "poleron",
+      "badge": "PREVENTA - Entrega en Julio",
+      "sale_badge": "Ahorra 10%",
+      "rating": 5.0,
+      "reviews_count": 6,
+      "price": 44990,
+      "compare_at_price": 49990,
+      "href": "/products/poleron-acid-wash-hisoka-morow-grim-magician-hunter-x-hunter",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/1_a43e0dc6-2006-429a-94c0-043d1f87ff02.png?v=1772412553&width=800",
+          "alt": "PREVENTA - Polerón Acid Wash Hisoka Morow: Grim Magician - Hunter x Hunter",
+          "role": "primary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 5,
+      "handle": "polera-acid-wash-asta-my-magic-is-never-giving-up-black-clover",
+      "title": "Polera Acid Wash Asta: My Magic Is Never Giving Up - Black Clover",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": 5.0,
+      "reviews_count": 6,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/polera-acid-wash-asta-my-magic-is-never-giving-up-black-clover",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/4_dfbc411a-f8b0-407f-98ad-a94dd236b46f.png?v=1762292209&width=800",
+          "alt": "Polera Acid Wash Asta: My Magic Is Never Giving Up - Black Clover",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/3_d269e0b0-f759-47dc-92f1-eb58107466ee.png?v=1762292209&width=800",
+          "alt": "Polera Acid Wash Asta: My Magic Is Never Giving Up - Black Clover",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 6,
+      "handle": "polera-acid-wash-luffy-inspo-straw-hat-wanted-one-piece",
+      "title": "Polera Acid Wash Luffy Inspo : Straw Hat Wanted - One Piece",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": 5.0,
+      "reviews_count": 6,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/polera-acid-wash-luffy-inspo-straw-hat-wanted-one-piece",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/Postweb_13.png?v=1749602206&width=800",
+          "alt": "Polera Acid Wash Luffy Inspo : Straw Hat Wanted - One Piece",
+          "role": "primary"
+        }
+      ],
+      "variants": [
+        {
+          "id": "62587070153075",
+          "color": "Acid Wash",
+          "swatch_hex": "#d4d4d4",
+          "image_src": "https://zoan.cl/cdn/shop/files/Postweb_13.png?v=1749602206&width=800"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "handle": "polera-acid-wash-trafalgar-d-water-lawc-room-one-piece",
+      "title": "Polera Acid Wash Trafalgar D. Water Law: ROOM - One Piece",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": 5.0,
+      "reviews_count": 1,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/polera-acid-wash-trafalgar-d-water-lawc-room-one-piece",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/2_0342aa49-fa4b-4e3a-ac2c-5e372323b189.png?v=1774206190&width=800",
+          "alt": "Polera Acid Wash Trafalgar D. Water Law: ROOM - One Piece",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/5_3bd2f72b-22c8-4b2f-8c6f-fb7f1f6128a7.png?v=1774206190&width=800",
+          "alt": "Polera Acid Wash Trafalgar D. Water Law: ROOM - One Piece",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 8,
+      "handle": "polera-acid-wash-hisoka-morow-grim-magician-hunter-x-hunter",
+      "title": "Polera Acid Wash Hisoka Morow: Grim Magician - Hunter x Hunter",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Oferta",
+      "rating": 5.0,
+      "reviews_count": 2,
+      "price": 33990,
+      "compare_at_price": 38990,
+      "href": "/products/polera-acid-wash-hisoka-morow-grim-magician-hunter-x-hunter",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/2_2cf66ba1-dd93-47d1-982a-c5c1104952f9.png?v=1772412092&width=800",
+          "alt": "Polera Acid Wash Hisoka Morow: Grim Magician - Hunter x Hunter",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/3_afc847f0-9350-487d-b12d-3a502b75cbe9.png?v=1772412092&width=800",
+          "alt": "Polera Acid Wash Hisoka Morow: Grim Magician - Hunter x Hunter",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 9,
+      "handle": "polera-acid-wash-genei-ryodan-ashes-of-meteor-hunter-x-hunter",
+      "title": "Polera Acid Wash Gen'ei Ryodan: Ashes of meteor - Hunter x Hunter",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": 5.0,
+      "reviews_count": 1,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/polera-acid-wash-genei-ryodan-ashes-of-meteor-hunter-x-hunter",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/2_3f326efd-7283-420d-a097-72b5f21dfc3f.png?v=1769098498&width=800",
+          "alt": "Polera Acid Wash Gen'ei Ryodan: Ashes of meteor - Hunter x Hunter",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/5_1f310a1e-795b-457d-b03b-889797a366b9.png?v=1769096949&width=800",
+          "alt": "Polera Acid Wash Gen'ei Ryodan: Ashes of meteor - Hunter x Hunter",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 10,
+      "handle": "guts-black-swordsman-edicion-especial-acid-wash-berserk",
+      "title": "Polera Acid Wash Guts: Black Swordsman - Berserk",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": 5.0,
+      "reviews_count": 3,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/guts-black-swordsman-edicion-especial-acid-wash-berserk",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/4_89d9d25e-98b3-4a9b-9070-8f165967dd06.png?v=1751410332&width=800",
+          "alt": "Polera Acid Wash Guts: Black Swordsman - Berserk",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/3_267a024b-ec8e-41cc-be11-bfc8c79b9202.png?v=1751410332&width=800",
+          "alt": "Polera Acid Wash Guts: Black Swordsman - Berserk",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 11,
+      "handle": "polera-acid-wash-one-piece-devil-fruit-gomu-gomu-no-mi",
+      "title": "Polera Acid Wash Devil Fruit: Gomu Gomu No Mi - One Piece",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": 5.0,
+      "reviews_count": 6,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/polera-acid-wash-one-piece-devil-fruit-gomu-gomu-no-mi",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/1_4b30f453-6c15-4503-811a-77723241fcc4.png?v=1748379391&width=800",
+          "alt": "Polera Acid Wash Devil Fruit: Gomu Gomu No Mi - One Piece",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/2_cadf09da-43df-4214-a731-ae3fcb5d3389.png?v=1748379391&width=800",
+          "alt": "Polera Acid Wash Devil Fruit: Gomu Gomu No Mi - One Piece",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": 12,
+      "handle": "polera-acid-wash-one-piece-devil-fruit-ope-ope-no-mi",
+      "title": "Polera Acid Wash Devil Fruit: Ope Ope No Mi - One Piece",
+      "type": "polera",
+      "badge": null,
+      "sale_badge": "Ahorra 15%",
+      "rating": null,
+      "reviews_count": 0,
+      "price": 33990,
+      "compare_at_price": 39990,
+      "href": "/products/polera-acid-wash-one-piece-devil-fruit-ope-ope-no-mi",
+      "images": [
+        {
+          "src": "https://zoan.cl/cdn/shop/files/3_956be701-0826-47cf-9c46-df35dc66573a.png?v=1748377777&width=800",
+          "alt": "Polera Acid Wash Devil Fruit: Ope Ope No Mi - One Piece",
+          "role": "primary"
+        },
+        {
+          "src": "https://zoan.cl/cdn/shop/files/2_965774ed-c80e-472b-beb4-821234bfb195.png?v=1748377777&width=800",
+          "alt": "Polera Acid Wash Devil Fruit: Ope Ope No Mi - One Piece",
+          "role": "secondary"
+        }
+      ],
+      "variants": []
+    }
+  ]
+}
