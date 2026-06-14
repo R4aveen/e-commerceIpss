@@ -7,7 +7,7 @@ import { useGetProducts } from "@/store/services/productHome";
 
 const HomePage = () => {
 
-  const { data, isError, isLoading, refetch } = useGetProducts();
+  const { data, isError, isLoading } = useGetProducts();
 
   if (isLoading) return <div>Cargando...</div>
   if (isError) return <div>Error al cargar productos</div>
