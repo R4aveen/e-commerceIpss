@@ -1,0 +1,4 @@
+footer[data-component-name="Footer"] {
+  background-color: var(--parent-bg) !important;
+  border-color: var(--parent-border-color) !important;
+}

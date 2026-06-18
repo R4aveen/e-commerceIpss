@@ -24,6 +24,7 @@
   --bs-tertiary-bg: #f8f9fa;
   --bs-tertiary-bg-rgb: 248, 249, 250;
   --bs-border-color: #dee2e6;
+  
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
 
   --parent-bg: #efefef8e;
@@ -59,12 +60,4 @@
 
   --parent-bg: #1e1e1e;
   --parent-border-color: #2b2b2b;
-}
-
-header[data-component-name="Header"],
-div[data-component-name="Subheader"],
-footer[data-component-name="Footer"],
-div[data-component-name="Card"] {
-  background-color: var(--parent-bg) !important;
-  border-color: var(--parent-border-color) !important;
 }

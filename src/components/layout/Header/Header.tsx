@@ -1,6 +1,8 @@
 import { type FC, type HTMLAttributes, type ReactNode, useRef } from "react";
+import { useLocation } from "react-router-dom";
 import classNames from "classnames";
 import useTheme from "@/hooks/useTheme";
+import "./Header.css";
 
 interface IHeaderLeftProps extends HTMLAttributes<HTMLDivElement> {
   children: ReactNode;
@@ -43,7 +45,7 @@ export const HeaderRight: FC<IHeaderRightProps> = (props) => {
 };
 HeaderRight.displayName = "HeaderRight";
 
-interface IHeaderProps {
+interface IHeaderProps extends HTMLAttributes<HTMLElement> {
   children: ReactNode;
   className?: string;
 }
@@ -51,8 +53,31 @@ const Header: FC<IHeaderProps> = (props) => {
   const { children, className, ...rest } = props;
   const divRef = useRef<HTMLElement>(null);
   const theme = useTheme();
+  const location = useLocation();
 
+  const isHomePage = location.pathname === "/";
   const hasBorder = theme.borderWidth !== "border-0";
+
+  if (isHomePage) {
+    return (
+      <div className="position-absolute top-0 start-0 w-100" style={{ zIndex: 1020 }}>
+        <div className="bg-black text-white text-center py-1">
+          <p className="m-0 small text-uppercase" style={{ letterSpacing: '0.08em' }}>hola</p>
+        </div>
+        <header
+          ref={divRef}
+          data-component-name="Header"
+          className={classNames(
+            "w-100 d-flex justify-content-between p-3 shadow-sm bg-body-tertiary",
+            className
+          )}
+          {...rest}
+        >
+          {children}
+        </header>
+      </div>
+    );
+  }
 
   return (
     <header
@@ -66,6 +91,7 @@ const Header: FC<IHeaderProps> = (props) => {
         },
         className,
       )}
+      style={{ zIndex: 1020, ...rest.style }}
       {...rest}
     >
       {children}

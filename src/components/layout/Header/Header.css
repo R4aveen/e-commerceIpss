@@ -1,0 +1,50 @@
+header[data-component-name="Header"] {
+  background-color: #00000000 !important;
+  color: #fff;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 1rem 2.5rem !important;
+}
+
+header[data-component-name="Header"] [data-component-name="Header/HeaderLeft"] span {
+  color: #fff !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+header[data-component-name="Header"] [data-component-name="Header/HeaderLeft"] button {
+  color: #fff;
+}
+
+header[data-component-name="Header"] .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  background-color: transparent !important;
+  transition: color 0.15s ease-in-out;
+}
+
+header[data-component-name="Header"] .nav-link:hover,
+header[data-component-name="Header"] .nav-link:focus,
+header[data-component-name="Header"] .nav-link.active {
+  color: #fff !important;
+}
+
+header[data-component-name="Header"] .dropdown-menu {
+  background-color: #0a0a0a;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 0;
+}
+
+header[data-component-name="Header"] .dropdown-item {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+header[data-component-name="Header"] .dropdown-item:hover,
+header[data-component-name="Header"] .dropdown-item:focus {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
