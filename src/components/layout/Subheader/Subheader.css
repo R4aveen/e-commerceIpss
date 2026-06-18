@@ -1,0 +1,4 @@
+div[data-component-name="Subheader"] {
+  background-color: var(--parent-bg) !important;
+  border-color: var(--parent-border-color) !important;
+}

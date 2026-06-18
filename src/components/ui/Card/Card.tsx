@@ -3,6 +3,7 @@ import classNames from "classnames";
 import useTheme from "@/hooks/useTheme";
 import type { TRounded } from "@/types/rounded.type";
 import type { TBorderWidth } from "@/types/borderWidth.type";
+import "./Card.css";
 
 interface ICardHeaderProps extends HTMLAttributes<HTMLDivElement> {
   children: ReactNode;

@@ -4,6 +4,49 @@ Este es un proyecto de comercio electrónico moderno y escalable construido con 
 
 ---
 
+## Instalación y Configuración
+
+Sigue los siguientes pasos para clonar el repositorio e iniciar la aplicación localmente:
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/R4aveen/e-commerceIpss.git
+cd e-commerceIpss
+```
+
+### 2. Instalar dependencias
+Este proyecto utiliza `pnpm` como gestor de paquetes. Si necesitas instalar `pnpm`, puedes hacerlo ejecutando
+```bash
+curl -fsSL https://pnpm.io | sh -
+```
+
+O si utilizas powershell
+```bash
+iwr -useb https://pnpm.io | iex
+```
+
+puedes revisar la documentacion aqui [pnpm](https://pnpm.io/es/installation)
+
+
+Para instalar todas las dependencias del proyecto, corre:
+```bash
+pnpm install
+```
+
+### 3. Servidor de desarrollo
+Para iniciar la aplicación en modo desarrollo local:
+```bash
+pnpm run dev
+```
+
+### 4. Construir para producción
+Para compilar y optimizar el sitio para producción:
+```bash
+pnpm run build
+```
+
+---
+
 ## Tecnologias y Librerías Utilizadas (por ahora)
 
 El proyecto aprovecha un conjunto de tecnologías modernas para garantizar un rendimiento óptimo, tipado estricto y una experiencia de desarrollo fluida:

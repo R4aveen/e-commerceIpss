@@ -1,6 +1,7 @@
 import { type FC, type HTMLAttributes, type ReactNode } from "react";
 import classNames from "classnames";
 import useTheme from "@/hooks/useTheme";
+import "./Subheader.css";
 
 interface ISubheaderLeftProps extends HTMLAttributes<HTMLDivElement> {
   children: ReactNode;
